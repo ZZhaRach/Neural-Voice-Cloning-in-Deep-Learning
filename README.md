@@ -15,3 +15,4 @@ Speakers:
 
 ## Trained Model
 This repository also contains the pre-trained model and a few trained model from single speaker fine tuning
+https://drive.google.com/drive/folders/1Gp1_dwJXSuDCjuFJweXJnBLg85lpyvuJ?usp=sharing
